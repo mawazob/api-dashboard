@@ -27,8 +27,8 @@ At the moment each endpoint is simulated by a function that returns a hardcoded 
 ## Usage
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/mawazob/api-dashboard
+cd api-dashboard
 python dashboard.py
 ```
 
